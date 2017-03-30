@@ -1,0 +1,37 @@
+- git:
+    local-name: hrpsys
+    uri: http://github.com/fkanehiro/hrpsys-base
+- git:
+    local-name: jsk-ros-pkg/jsk_model_tools
+    uri: https://github.com/jsk-ros-pkg/jsk_model_tools.git
+- hg:
+    local-name: multisense
+    uri: https://bitbucket.org/crl/multisense_ros
+    version: 3.4.9
+- git:
+    local-name: openhrp3
+    uri: http://github.com/fkanehiro/openhrp3
+- git:
+    local-name: openrtm_aist
+    uri: http://github.com/tork-a/openrtm_aist-release
+- git:
+    local-name: openrtm_aist_python
+    uri: http://github.com/tork-a/openrtm_aist_python-release
+- git:
+    local-name: rtctree
+    uri: http://github.com/tork-a/rtctree-release
+- git:
+    local-name: rtm-ros-robotics/rtmros_gazebo
+    uri: https://github.com/start-jsk/rtmros_gazebo.git
+- git:
+    local-name: rtm-ros-robotics/rtmros_hrp2
+    uri: https://github.com/start-jsk/rtmros_hrp2
+- git:
+    local-name: rtm-ros-robotics/rtmros_tutorials
+    uri: https://github.com/start-jsk/rtmros_tutorials
+- git:
+    local-name: rtshell
+    uri: http://github.com/tork-a/rtshell-release
+- git:
+    local-name: rtsprofile
+    uri: http://github.com/tork-a/rtsprofile-release
